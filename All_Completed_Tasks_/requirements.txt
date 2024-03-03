@@ -92,6 +92,7 @@ prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pyconll==3.2.0
 pycparser==2.21
 Pygments==2.17.2
 pyparsing==3.1.1
@@ -133,5 +134,5 @@ wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.7.0
+wget==3.2
 widgetsnbextension==4.0.10
-scipy
